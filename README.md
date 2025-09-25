@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By: AALIYA FATHIMA.M
-# Register Number: 212223230001
+# Developed By: DEIVARAJA R
+# Register Number: 212224240031
 
 import cv2
 import numpy as np
@@ -72,8 +72,10 @@ plt.show()
 
 ```
 ## Output:
-<img width="1020" height="660" alt="image" src="https://github.com/user-attachments/assets/bba06af7-8369-4d8b-80cb-2b3aaddfe5dd" />
 
+<img width="1393" height="450" alt="Screenshot 2025-09-25 110558" src="https://github.com/user-attachments/assets/2c638ce1-c367-4053-aeac-fa98fd9bd4d8" />
+
+<img width="1314" height="450" alt="Screenshot 2025-09-25 110617" src="https://github.com/user-attachments/assets/c1f38f28-6ab5-44f1-8bf3-0e18a3b77ea2" />
 
 
 ## Result: 
