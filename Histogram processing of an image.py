@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#NAME :DEIVARAJA R
+#REG NO: 212224240032
 # In[1]:Write your code to find the histogram of gray scale image and color image channels
 
 
